@@ -4,6 +4,20 @@ Building my own OS (Great-X OS)
    -- Made in Indonesia --
     [ Project OS 'n BIOS ]
 
-note: Order to run this BIOS 'n OS, you need to run from a New Laptop/PC or Using the "Virtual Box" App. This os Changed all system and buildup from Windows.
+note++: this project not will fully finished due to school, youtube contents, etc.
+
+note: Order to run this BIOS 'n OS, you need to run in a Microsoft / Windows OS (use VM if you're on Apple OS)
+      also use this on a usb / flashdrive for a better spec (or a folder)
+
+      why? you might ask...
+
+      well if see, i made a file that when this init DRIVE/FOLDER clicked autoruns the SETUP.EXE/SETUP.CMD/SETUP.BAT file
+      and also run the BIOS + OS
+
+      specs: 
+            RAM: 128b
+            ROM: 32b
+
+            and MEMORY: 1Kb
 
 -- Happy using :) 👑
